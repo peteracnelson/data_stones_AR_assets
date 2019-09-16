@@ -1,0 +1,14 @@
+# Blender MTL File: 'stone_asset_mapper.blend'
+# Material Count: 1
+
+newmtl pnbmk_rock_material
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.800000 E:\\Dropbox\\Art Applications\\2018\\asia_society_stones\\Brooklyn_AR\\pnbmk_normal.png
+map_Kd E:\\Dropbox\\Art Applications\\2018\\asia_society_stones\\Brooklyn_AR\\brooklyn_1k_textures\\pnbmk_ambient_occlusion.jpg
