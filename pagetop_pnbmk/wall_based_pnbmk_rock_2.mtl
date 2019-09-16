@@ -10,5 +10,5 @@ Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 2
-map_Bump -bm 0.700000 pnbmk_normal.png
+map_Bump -bm 0.700000 pnbmk_normal.jpg
 map_Kd pnbmk_ambient_occlusion.jpg
