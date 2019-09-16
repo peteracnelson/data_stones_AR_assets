@@ -11,4 +11,4 @@ Ni 1.450000
 d 1.000000
 illum 2
 map_Bump -bm 0.800000 pnbmk_normal.png
-map_Kd pnbmk_ambient_occlusion.png
+map_Kd pnbmk_ambient_occlusion.jpg
