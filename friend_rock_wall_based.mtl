@@ -10,5 +10,5 @@ Ke 0.0 0.0 0.0
 Ni 1.450000
 d 1.000000
 illum 2
-map_Bump -bm 0.700000 E:\\Dropbox\\Art Applications\\2018\\asia_society_stones\\Brooklyn_AR\\brooklyn_1k_textures\\pnpaul_normal.jpg
-map_Kd E:\\Dropbox\\Art Applications\\2018\\asia_society_stones\\Brooklyn_AR\\brooklyn_1k_textures\\pnpaul_ambient_occlusion.jpg
+map_Bump -bm 0.700000 pnpaul_normal.jpg
+map_Kd pnpaul_ambient_occlusion.jpg
