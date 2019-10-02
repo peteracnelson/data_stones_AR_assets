@@ -1,0 +1,13 @@
+# Blender MTL File: 'stone_asset_mapper.blend'
+# Material Count: 1
+
+newmtl box_tile_shader
+Ns 843.639547
+Ka 0.100000 0.100000 0.100000
+Kd 0.800000 0.800000 0.800000
+Ks 0.213636 0.213636 0.213636
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd /Users/peteracnelson/Dropbox/Art Applications/2018/asia_society_stones/Brooklyn_AR/brooklyn_1k_textures/fiance_tiles.png
